@@ -3,7 +3,7 @@
 * 👀 I'm fascinated by how tech empowers businesses to achieve bigger and better things!
 * 🏛️ 3rd year student studying Electronic and Electrical Engineering with Computer Science at University College London (UCL)
 * ⚡ Fun fact: I once travelled to Austria with people I've never met before
-* 📫 You can reach me at jishenlim78@gmail.com or my LinkedIn
+* 📫 You can reach me at jishenlim78@gmail.com or my [https://www.linkedin.com/in/dylanljs/](LinkedIn)
 
 <!--
 **dylanljs04/dylanljs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
